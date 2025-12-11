@@ -1,6 +1,6 @@
 # Flight Disruption Communications Generator
 
-###This demo was created during my time as an AI product manager at HP
+### This demo was created during my time as an AI product manager at HP
 
 An AI-powered demonstration that generates multi-channel communications for airline flight disruptions. This demo showcases on-premises generative AI capabilities using the HP ZGX Nano AI Station, generating professional passenger notifications across four communication channels without cloud dependencies.
 
